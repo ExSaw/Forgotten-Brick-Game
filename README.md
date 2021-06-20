@@ -82,7 +82,7 @@ This is source code of Forgotten Brick Game.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://s1.1zoom.ru/big0/582/Love_Sheet_of_paper_Heart_Word_Lettering_English_603548_1280x853.jpg)
+[![Product Name Screen Shot][product-screenshot]](https://user-images.githubusercontent.com/86077011/122676768-e3455b00-d1f8-11eb-9c3c-a9de65611c92.png)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
