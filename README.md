@@ -1,12 +1,22 @@
-# Forgotten-Brick-Game
+# Forgotten Brick Game
 
 <!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
+<!--PM icon-->
+<!--
+![pic2](https://user-images.githubusercontent.com/86077011/122677219-e0e40080-d1fa-11eb-997e-52bc8d1c2305.png)
 -->
-[![LinkedIn(not ready yet)][linkedin-shield]][linkedin-url]
+<!--Hand-->
+<!--
+![logo_2](https://user-images.githubusercontent.com/86077011/122677313-4801b500-d1fb-11eb-89b8-276c3633ef32.png)
+-->
+
+<a href="https://play.google.com/store/apps/developer?id=RickRip"><img alt="LinkedIn" src="https://img.shields.io/badge/My_linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/developer?id=RickRip"><img alt="Play Store" src="https://img.shields.io/badge/My_Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=green"/></a>
 
 
 
@@ -14,28 +24,33 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src=https://user-images.githubusercontent.com/86077011/122677313-4801b500-d1fb-11eb-89b8-276c3633ef32.png alt="Logo" width="160" height="260">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Forgotten Brick Game</h3>
 
   <p align="center">
+  <!--
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.rickrip.game0"><strong>Link to Play Market »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+-->
+    <a href="https://play.google.com/store/apps/developer?id=RickRip">
+      <img alt="Play Store" src="https://img.shields.io/badge/Game_on_Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=green"/>
+    </a>
+    <a href="https://github.com/othneildrew/Best-README-Template">
+      <img alt="YouTube" src="https://img.shields.io/badge/YouTube_Game_Video-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+    </a>
+   
   </p>
 </p>
 
 
 
 <!-- TABLE OF CONTENTS -->
+<!--
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -60,6 +75,7 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
+-->
 
 
 
@@ -69,31 +85,19 @@
 ![pic3](https://user-images.githubusercontent.com/86077011/122676768-e3455b00-d1f8-11eb-9c3c-a9de65611c92.png)
 
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+The game came about when my friend accidentally broke his old Nokia phone. So after that he had bought a new modern one that uses the Android OS. Then he asked me if I could help him to revive one of games he loved to play on the old phone. The game was called Galaxy Balls. I decided to help him. After months (or maybe a year) of development I have made my own game with similar gamerules to the old one but much differently designed. This game is excellent for everyone who likes games with "3 in a row" mechanics and tetris style gameplay.
 
 ### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
+* [Java](https://www.java.com)
+* [libGDX](https://libgdx.com)
+* [GLSL](https://wikipedia.org/wiki/OpenGL_Shading_Language)
+* [OpenGL ES 2.0](https://www.opengl.org)
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+<!-- ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is a
 
 ### Prerequisites
 
@@ -122,6 +126,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
+<!--
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -131,6 +136,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
+<!--
 ## Roadmap
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
@@ -138,6 +144,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 
 <!-- CONTRIBUTING -->
+<!--
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -151,22 +158,30 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- LICENSE -->
+<!--
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-
 <!-- CONTACT -->
 ## Contact
+Chudov Alex (RickRip) - usatu.robotics@gmail.com <img alt="Gmail" src="https://img.shields.io/badge/My Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+Project Link: [https://github.com/ExSaw/Forgotten-Brick-Game](https://github.com/ExSaw/Forgotten-Brick-Game)
+
+<!-- CONTACT -->
+<!--
+## Contact
+RickRip - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
+<!--
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
@@ -186,6 +201,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!--
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
