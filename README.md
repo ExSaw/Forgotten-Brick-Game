@@ -1,4 +1,4 @@
-# GDX Fefteen
+# Forgotten Brick Game
 
 <!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -27,7 +27,7 @@
     <img src=https://user-images.githubusercontent.com/86077011/122677313-4801b500-d1fb-11eb-89b8-276c3633ef32.png alt="Logo" width="160" height="260">
   </a>
 
-  <h3 align="center">GDX Fefteen</h3>
+  <h3 align="center">Forgotten Brick Game</h3>
 
   <p align="center">
   <!--
