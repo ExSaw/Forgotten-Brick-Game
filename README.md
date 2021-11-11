@@ -1,4 +1,4 @@
-# Forgotten Brick Game
+# GDX Fefteen
 
 <!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
