@@ -10,7 +10,7 @@ apply plugin: 'com.android.application'
 
 android {
   namespace "com.rickrip.game0"
-  compileSdk 34
+  compileSdk 36
   sourceSets {
     main {
       manifest.srcFile 'AndroidManifest.xml'
@@ -33,9 +33,9 @@ android {
   defaultConfig {
     applicationId 'com.rickrip.game0'
     minSdkVersion 19
-    targetSdkVersion 34
-    versionCode 4
-    versionName "1.4"
+    targetSdkVersion 36
+    versionCode 5
+    versionName "1.5"
     multiDexEnabled true
   }
   compileOptions {
